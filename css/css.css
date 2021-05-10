@@ -1,0 +1,69 @@
+body{
+    min-width: 1200px;
+}
+.background{
+    background: url(img/sitebody.jpg) fixed;
+    height: 1000px;
+}
+h1{
+    position: static;
+    border: 6px solid rgba(255, 244, 244, 0.897);
+    padding: 60px;
+    padding-top: 200px;
+    padding-bottom: 129px;
+    font-family:fantasy;
+    text-align: center;
+    color: rgba(255, 244, 244, 0.925);
+    font-size: 90px;
+    text-shadow: 1px 1px 20px rgb(34, 31, 31);
+}
+#h21{
+    text-align: left;
+    font-size: 35px;
+    font-family:fantasy;
+    color: rgb(255, 17, 0);
+    padding-bottom: 50px;
+}
+#h22{
+    text-align: right;
+    font-size: 35px;
+    font-family:fantasy;
+    color: rgb(255, 17, 0);
+    padding-bottom: 50px;
+}
+#p1{
+    text-align: left;
+    font-size: 200%;
+    font-family:fantasy;
+    color: rgba(255, 244, 244, 0.925);
+    
+}
+#p2{
+    text-align: left;
+    font-size: 200%;
+    font-family: fantasy;
+    color:black;
+}
+
+#div1{
+    background: rgb(18, 18, 19);
+    padding: 40px;
+    height: 77%;
+}
+#div2{
+    background: rgb(221, 221, 223);
+    padding: 20px;
+    height: 217%;
+}
+#img1{
+    height: 37%;
+    width: 32%;
+}
+
+#img3{
+    height: 340px;
+    width: 850px;
+}
+a{
+    color: rgb(255, 17, 0);
+}
